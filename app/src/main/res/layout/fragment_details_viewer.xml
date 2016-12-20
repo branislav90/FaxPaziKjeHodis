@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/labelName_details"
+        android:ems="10"
+        android:id="@+id/detailsName" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:hint="@string/labelDetails_details"
+        android:ems="10"
+        android:id="@+id/detailsDetail" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="142dp"
+        android:layout_weight="0.66">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:srcCompat="@drawable/cast_expanded_controller_actionbar_bg_gradient_light"
+            android:id="@+id/pictureHolder" />
+    </FrameLayout>
+
+    <Button
+        android:text="@string/buttonAttach_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/attachBtn"
+        android:onClick="AttachPic"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="96dp"></LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="86dp">
+
+        <Button
+            android:text="@string/buttonSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/saveBtn"
+            android:onClick="SaveForm"
+            android:layout_weight="1" />
+
+        <Button
+            android:text="@string/buttonCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cancelBtn"
+            android:onClick="CancelForm"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</LinearLayout>

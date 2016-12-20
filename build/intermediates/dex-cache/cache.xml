@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_7f1f408eaa157ae4d2a82227dbbfeacc2e73e7b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_e70eb24af6818c622aca4b73e645e15b783a48fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_c1318292bc101e91076400930d4a19683ddd01ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2037d1e09714bc67ef1b6877af22df1106266cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9a54b711e7122f5c2f96f8f2282ac4752d93d48a">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_76fc90bfc4a5a70e70962ed55cedcfca312e534e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_6cbdf830a192675306b864dedebbb6f7cfa61d35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_5fb63297b075e555ff0a76573f1397966c8f94ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_17e83520cace00f7b4b8df6e6357adb2e4619988\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_57446db3eeb8fd5bb8df51b8a9e09741ed456d72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_c20b270314c2d2d150fd4f469d1dc37291254061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e901b5a5bd2fa27e6b9ca38030350652bec29027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_db3f2222f4cac31a233444983a67034beef213a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_402b0324d604bc1eccd965e4aa6007a15600cf79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_5d5d6793d2a46acae38fbe2253c732a169a090f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_4588515e83b1646bcbccf913aa286b9add340475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_c19f3ed9f6748daf73f3bdffdc094dfb44bcd929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_1aa085f90ba816c6ec11373fc45b0b0a7f76b90d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_2d11dfbeb333073c5fb6ff967ba513a5f18a5808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_3fccba041e490278dde8ae0fe175156e3744b95c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_7929b25a1c48d52f76d3ded2aa77aec5d4b18df3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_a2bc68dcd972eac0ec94f6c0d38c2a80f57d8f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_ba30635740c8c6d52a22385438eece12a1e62e70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_61f0f36227a450f85a45fdc3b59ac88bc613b95a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_38b9bbced54ab1813cce05cf4c6b5bc98389f153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_c85f9a1d26621e95b6b1bc453d8c7bb2c72c23aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_9a646ebc12738ba61542ce6aa79a0e6a5cd43028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_84b21b09449c33ec232ff98abf873de7d6782812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_8e8af0ec5d91b413c22b5110ec38a6e38507cf1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_411e4c7a15859d479d804d9652e413c0cf829b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_cab4b5866c3be19aeb633d6ad71218b02faa53f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_9d2c1aec596a8cf76b24f22a8632704fd7eaee9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_17b726dd35f27ca44cd556ad06c8ecd2ba40cb42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_16319b5b163df2468f1985d48e6b787b1c89114d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_7bf6675c0f65cf8136a0fa81892c051b400976be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_f84eb8f6d8d65afc39668406d9302d415d8b4520\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_b35a312bd24d204928f4adab309df99e1c1b352e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_a5b57f18c925e5113b671d0dbf4a64a5285c529b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_44cea3ffbbb72b0641f65919b8579cabfc5b91f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_99a843669e6504a86bcf830054666a2a9e7e1f8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_4cb72a4ad9fcb8cc650e78523168fa1a99bb8f1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_54443521cd041b6788d2479ce5c864bcd41f09ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_daeb886de8f0ec6fbd1c7781ad39ca94837ee384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_9257147fcd942b52805f049269451342a189c593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_5fbfa1654b677b328dadda9f0761eb1b557532f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_b48777e409d85ca74ab2328e6c0ad594ae3edf89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_08200bf4b55d8b58962377533a9b3c2302bd3527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_f5e9fc820534bb7530ed5cc3708f74a17d50b10c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_e4ab74b9a53ee9277dd8f42f8dc24b286956ac50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_b53003360f5953527af14afad1f352a7a5e7c5fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_15c748e1cb59bf557ae4e4716cef8e8af1cb7c2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_d9799550a7e6cb8513d3fc03d716ede3a89e2465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_4642d55d60214c807c501ce901079c29bdc51039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_63ac03c5b012ef5a9348d09a06c2c821808e9a8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_cefe38146d625882d8ce4c2c465344c96e76aa9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_44f192e6b31778af246c65cace0755f642c2b25a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.18.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.18.0_397d7d3590106674a4ccde8954f66b9ba4e224d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_822e424ea4ee990b6a01b5edc7aaec838830f78b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_1ff3a3ce9e87c51a45c355110ba85768eabfb5da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_2adda86aa5ec98abe6370afe9b461bfcf2d7eb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_9a8572f33edcaf87171a392fb92453576098dbd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e56eb47087903ef0c0bf4797ec17d56a3aa48dda">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9639ab2bb60c7b62f98660133d5e294318a5b768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_6c04d22ac207f3f55a427620d0e9c6ced81b185c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_004889c7eb005e649bd8e6add640e5345497f7f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_a34f3d5f6bb62c34d797ad00865b6bb3e4c01bc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_21241619b40f99d24e63e053277c224db7dc8260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_0dcb916dd6f82cf5aeeedd687bedaf33cd9d75b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_0b59f71283fc67fb32ede20910ef280b7179f4bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_83104d1388b045a759b1124732fb114635112663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d1cc8f7333793e855976915be28a0617de1399e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_2265ff08c1a8ae0519f9596060d02de96e5f5379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_63634578aa884d2dbc65e5ad0d8982b11807193a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_26368845f1e0c25b991a23a71656c612d7a1bd39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_07120e35ac78031cca41229a17b19908461ea5c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_da8a9d9da8ea6a60a6cf1f57523d5ab2c49fe19e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_1b6d1040b765692060dce33c3064083e5424c7c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_5398ff105fbfa8b43beb323a4f00217f4f593fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_8041300b32fac7173dab1f16defeb0ae826d42c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_157dd77618619682e8597a753f9f2180d0af3a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_0d471f4dee54bd10f069db2283431bf349846bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_f06c95bb9e0d34b8d8debdefc9f4ebdedb5a83c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0c285409d19a2dcfce1d9f91dbab9ba2fbbc44ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_6d82f62d25d9484547875ec12530b7996fe0526b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_039c90ceeed8d4d1d7d8ac2f1592b2c1fcfc85cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_14d44c0a358402e69ec6bf773a182dbed20aa36d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\brani\Desktop\PaziKjeHodis_Android-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_0a91bca78b5068f5c7e24d9409077585537393d1\classes.dex" />
+    </item>
+
+</items>
